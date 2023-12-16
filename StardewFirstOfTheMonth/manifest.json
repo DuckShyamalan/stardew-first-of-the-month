@@ -1,0 +1,10 @@
+{ 
+    "Name": "StardewFirstOfTheMonth", 
+    "Author": "Duck Shyamalan", 
+    "Version": "1.0.0",
+    "Description": "add message to be shown on the first day of the month", 
+    "UniqueID": "DuckShyamalan.StardewFirstOfTheMonth", 
+    "EntryDll": "StardewFirstOfTheMonth.dll", 
+    "MinimumApiVersion": "2.10.0", 
+    "UpdateKeys": []
+}
