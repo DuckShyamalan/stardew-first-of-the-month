@@ -1,5 +1,5 @@
 # stardew-first-of-the-month
-Greets you with a dialogue box when you wake up on the first of the month in Stardew Valley.
+Greets you with a dialogue box and a sound when you wake up on the first of the month in Stardew Valley.
 
 ## Usage
 ### From Source Code
